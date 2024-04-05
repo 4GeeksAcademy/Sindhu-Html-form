@@ -1,0 +1,21 @@
+.margin-2 {
+    margin:0.5rem;
+}
+.card{
+    width: fit-content;
+    margin: auto;
+    margin-top: 3rem;
+}
+
+.card-header {
+    font-size: 2rem;
+
+}
+.card-header,
+.footer {
+    background-color: gainsboro;
+}
+.container {
+    background-color: white;
+    margin: 1rem 0;
+}
